@@ -40,6 +40,6 @@ Profile.prototype = {
     views: PropTypes.number.isRequired,
     likes: PropTypes.number.isRequired,
   }),
-}
+};
 
 export default Profile;
